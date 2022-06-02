@@ -1,0 +1,2 @@
+# .github
+Automate your life
