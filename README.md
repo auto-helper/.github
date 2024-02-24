@@ -1,2 +1,1 @@
-# .github
-Automate your life
+# Automation Makes Perfect 
