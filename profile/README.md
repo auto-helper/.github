@@ -1,1 +1,1 @@
-# Automate Makes Perfect
+# Automation Makes Perfect
